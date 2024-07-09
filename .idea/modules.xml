@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dd-common/dd-common.iml" filepath="$PROJECT_DIR$/dd-common/dd-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dd-frame.iml" filepath="$PROJECT_DIR$/.idea/dd-frame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dd-user/dd-user.iml" filepath="$PROJECT_DIR$/dd-user/dd-user.iml" />
+    </modules>
+  </component>
+</project>
