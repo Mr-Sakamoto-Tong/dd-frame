@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/dd-common/dd-common-mybatiesplus/dd-common-mybatiesplus.iml" filepath="$PROJECT_DIR$/dd-common/dd-common-mybatiesplus/dd-common-mybatiesplus.iml" />
       <module fileurl="file://$PROJECT_DIR$/dd-common/dd-common-web/dd-common-web.iml" filepath="$PROJECT_DIR$/dd-common/dd-common-web/dd-common-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dd-frame.iml" filepath="$PROJECT_DIR$/.idea/dd-frame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dd-frame-mysql/dd-frame-mysql.iml" filepath="$PROJECT_DIR$/dd-frame-mysql/dd-frame-mysql.iml" />
       <module fileurl="file://$PROJECT_DIR$/dd-user/dd-user.iml" filepath="$PROJECT_DIR$/dd-user/dd-user.iml" />
     </modules>
   </component>
