@@ -3,18 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>dd-frame</artifactId>
+        <artifactId>dd-common</artifactId>
         <groupId>com.eric-tong</groupId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>dd-common</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>dd-common-web</module>
-        <module>dd-common-mybatiesplus</module>
-    </modules>
+    <artifactId>dd-common-web</artifactId>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
@@ -23,9 +18,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
     </dependencies>
-
 </project>

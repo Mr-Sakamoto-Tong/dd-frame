@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/dd-common/dd-common.iml" filepath="$PROJECT_DIR$/dd-common/dd-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dd-common/dd-common-mybatiesplus/dd-common-mybatiesplus.iml" filepath="$PROJECT_DIR$/dd-common/dd-common-mybatiesplus/dd-common-mybatiesplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dd-common/dd-common-web/dd-common-web.iml" filepath="$PROJECT_DIR$/dd-common/dd-common-web/dd-common-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dd-frame.iml" filepath="$PROJECT_DIR$/.idea/dd-frame.iml" />
       <module fileurl="file://$PROJECT_DIR$/dd-user/dd-user.iml" filepath="$PROJECT_DIR$/dd-user/dd-user.iml" />
     </modules>

@@ -2,24 +2,30 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dd-user" />
-        <module name="dd-common" />
+        <module name="dd-common-web" />
+        <module name="dd-common-mybatiesplus" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="dd-common" target="1.8}" />
+      <module name="dd-common-mybatiesplus" target="1.8}" />
+      <module name="dd-common-web" target="1.8}" />
       <module name="dd-frame" target="1.8}" />
       <module name="dd-user" target="1.8}" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="dd-common" options="-parameters" />
-      <module name="dd-frame" options="-parameters" />
+      <module name="dd-common" options="" />
+      <module name="dd-common-mybatiesplus" options="-parameters" />
+      <module name="dd-common-web" options="-parameters" />
+      <module name="dd-frame" options="" />
       <module name="dd-user" options="-parameters" />
     </option>
   </component>
